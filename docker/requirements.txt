@@ -1,0 +1,6 @@
+pandas 
+notebook
+jupyter-console
+scikit-learn
+matplotlib
+toml
