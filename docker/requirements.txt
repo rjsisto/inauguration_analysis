@@ -4,3 +4,5 @@ jupyter-console
 scikit-learn
 matplotlib
 toml
+beautifulsoup4
+tqdm
