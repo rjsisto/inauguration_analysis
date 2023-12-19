@@ -1,2 +1,7 @@
-DATA_FOLDER = ""
-MODEL_FOLDER = ""
+DATA_FOLDER = "/project/src/data/"
+MODEL_FOLDER = "/project/src/models/"
+
+INDEX_URL = "https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses"
+WIKI_URL = "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+
+DATABASE = "/project/src/data/raw/speeches.db"
